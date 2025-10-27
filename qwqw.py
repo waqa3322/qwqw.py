@@ -16,9 +16,9 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Future Technology 2026", "Upcoming Inventions That Will Change The World", "Top 10 Future Gadgets 2025", "AI Inventions Changing Human Life", 
-"Future Robots 2026 Explained", "Next Generation Space Technology", "Mind-Blowing Science Discoveries 2026", "“Future Cars & Flying Vehicles","“pop culture roundup", 
-"“Hollywood power couples.",
+ "New science inventions that will blow your mind", "Upcoming Inventions That Will Change The World", "Upcoming AI inventions and future technologies", "AI Inventions Changing Human Life", 
+"latest space technology discoveries 2025", "Next Generation Space Technology", "Mind-Blowing Science Discoveries 2026", "“Science innovations that will change education","“Future technology predictions for 2030", 
+"“Quantum Computer Breakthroughs 2025.",
 ]
 
 # Fetch Data Button
