@@ -16,12 +16,9 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Top 10 Healthy Habits That Change Your Life", "Natural Ways to Boost Your Immunity", "Science-Based Weight Loss Tips 2025", "Morning Routine for a Healthy Body and Mind", 
-"Foods That Heal Your Body Naturally", "Secrets to Longevity and Anti-Aging", "Mental Health Awareness & Stress Management", "“Best Home Remedies for Common Diseases","“Gut Health and Digestion Explained", 
-"“How to Sleep Better and Wake Up Energetic.", "How to naturally detox your body at home"",What happens when you drink warm water every morning","Daily routine for a healthy lifestyle 2025","Foods that improve brain power and memory",
-]
+ "Adventure & Outdoor","Destination Guides","Travel Hacks & Tips","Beaches, landmarks, national parks","usa travel guide 2026","top 10 places to visit in australia","cheap travel tips australia","australia road trip itinerary","7 must-visit places in Australia
 
-# Fetch Data Button
+# Fetch Data Button",
 if st.button("Fetch Data"):
     try:
         # Calculate date range
