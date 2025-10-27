@@ -16,9 +16,9 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "New science inventions that will blow your mind", "Upcoming Inventions That Will Change The World", "Upcoming AI inventions and future technologies", "AI Inventions Changing Human Life", 
-"latest space technology discoveries 2025", "Next Generation Space Technology", "Mind-Blowing Science Discoveries 2026", "“Science innovations that will change education","“Future technology predictions for 2030", 
-"“Quantum Computer Breakthroughs 2025.",
+ "Top 10 Healthy Habits That Change Your Life", "Natural Ways to Boost Your Immunity", "Science-Based Weight Loss Tips 2025", "Morning Routine for a Healthy Body and Mind", 
+"Foods That Heal Your Body Naturally", "Secrets to Longevity and Anti-Aging", "Mental Health Awareness & Stress Management", "“Best Home Remedies for Common Diseases","“Gut Health and Digestion Explained", 
+"“How to Sleep Better and Wake Up Energetic.", "How to naturally detox your body at home"",What happens when you drink warm water every morning","Daily routine for a healthy lifestyle 2025","Foods that improve brain power and memory",
 ]
 
 # Fetch Data Button
