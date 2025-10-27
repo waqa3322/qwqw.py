@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Adventure & Outdoor","Destination Guides","Travel Hacks & Tips","Beaches, landmarks, national parks","usa travel guide 2026","top 10 places to visit in australia","cheap travel tips australia","australia road trip itinerary","7 must-visit places in Australia
+ "Adventure Outdoor","Destination Guides","Travel Hacks & Tips","Beaches landmarks national parks","usa travel guide 2026","top 10 places to visit in australia","cheap travel tips australia","australia road trip itinerary","7 must-visit places in Australia
 
 # Fetch Data Button",
 if st.button("Fetch Data"):
