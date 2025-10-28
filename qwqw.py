@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Top 10 hidden gems in USA 2025","Australia travel tips for solo travelers","USA road trip itinerary for 7 days","dventure activities in USA for beginners","Cheap flights and travel hacks Australia 2025","Family-friendly attractions in USA","cheap travel tips australia","australia road trip itinerary","7 must-visit places in Australia",
+ "Personal Finance budgeting investing","Tech Reviews AI Tools","Health Wellness mental health fitness","True Crime Mystery","Motivational Self-Improvemen","Celebrity Gossip Entertainment","Luxury Lifestyle ASMR","Educational Explainers history,science","Elon mask new tenology in 2026",
 ]
 
 # Fetch Data Button",
